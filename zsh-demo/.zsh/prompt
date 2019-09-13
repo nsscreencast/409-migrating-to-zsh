@@ -1,0 +1,2 @@
+# PROMPT (PS1) is defined by the theme
+RPROMPT=%{$fg[red]%}$(ruby_version)%{$reset_color%}
